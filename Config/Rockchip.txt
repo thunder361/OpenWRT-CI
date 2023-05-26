@@ -13,3 +13,4 @@ CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_hinlink_opc-h68k=y
 #IMMORTALWRT源专用
 CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_lunzn_fastrhino-r66s=y
 CONFIG_TARGET_DEVICE_rockchip_armv8_DEVICE_lunzn_fastrhino-r68s=y
+CONFIG_TARGET_rockchip_armv8_DEVICE_bozz-sw799a=y
